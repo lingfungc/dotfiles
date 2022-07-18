@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = justinlfchan@gmail.com
+	name = Ling Fung Chan
